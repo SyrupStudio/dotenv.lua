@@ -5,6 +5,22 @@ A minimal dotenv library for Lua 5.1+
 **If you need help join our [Discord](https://discord.gg/KJJsva8Krx)**
 
 ## How to install
+
+### From [LDE](https://lde.sh/)
+1. Run 
+```bash
+lde add dotenv
+```
+
+2. Require it
+
+```lua
+require("dotenv")
+```
+
+
+
+### From source
 1. Drop `dotenv.lua` into your project and require it
 
 ```lua
