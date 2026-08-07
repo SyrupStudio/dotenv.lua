@@ -1,5 +1,7 @@
 {
 	"name": "dotenv.lua",
-	"version": "0.1.0",
+	"version": "1.0.0",
+	"authors": ["Syrup Studios"],
+	"description": "A simple, minimal .env file parser for Lua 5.1+.",
 	"dependencies": {}
 }
